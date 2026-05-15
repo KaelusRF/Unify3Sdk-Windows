@@ -1,0 +1,105 @@
+END USER LICENSE AGREEMENT
+
+This agreement ("Agreement") is between you ("Licensee") and Kaelus Pty Ltd ("Kaelus") governing
+your use of the Unify 3 SDK, including any binary frameworks and documentation
+(collectively, the "SDK").
+
+By downloading, installing, or using the SDK, you agree to be bound by this
+Agreement. If you do not agree, do not use the SDK.
+
+
+1. License Grant
+
+Subject to this Agreement, Kaelus grants you a limited, non-exclusive,
+non-transferable, royalty-free license to:
+
+  * use the SDK to develop software applications ("End-User Applications"); and
+  * distribute the SDK solely as embedded and integrated into your End-User
+    Applications.
+
+An "End-User Application" means a software application that adds substantial
+primary functionality beyond the SDK and does not expose the SDK as a
+standalone product or service.
+
+
+2. Restrictions
+
+You must not:
+
+  * copy, modify, or create derivative works of the SDK;
+  * reverse engineer, decompile, or disassemble the SDK, except where such
+    restriction is prohibited by applicable law;
+  * distribute, sublicense, sell, lease, or otherwise make the SDK available
+    except as expressly permitted in this Agreement;
+  * use the SDK to develop or distribute a competing SDK or developer platform;
+  * remove or obscure any proprietary notices in the SDK; or
+  * use the SDK in violation of any applicable law or regulation.
+
+
+3. Updates and Changes
+
+Kaelus may, at its discretion, provide updates, modifications, or new versions
+of the SDK, and may discontinue the SDK at any time without liability.
+
+
+4. No Support
+
+Kaelus has no obligation to provide support, maintenance, or updates for the
+SDK.
+
+
+5. Ownership
+
+The SDK is licensed, not sold. Kaelus retains all right, title, and interest
+in and to the SDK, including all intellectual property rights.
+
+
+6. Disclaimer of Warranties
+
+To the maximum extent permitted by applicable law, the SDK is provided "as is"
+without warranty of any kind, including any implied warranties of
+merchantability, fitness for a particular purpose, or non-infringement.
+
+
+7. Limitation of Liability
+
+To the maximum extent permitted by applicable law, Kaelus will not be liable
+for any indirect, incidental, special, consequential, or exemplary damages
+arising from this Agreement or your use of the SDK, including loss of profits,
+data, or goodwill.
+
+
+8. Termination
+
+This Agreement terminates automatically if you breach its terms. Upon
+termination, you must cease all use of the SDK and destroy all copies in your
+possession or control. This does not require removal of the SDK from End-User
+Applications that were distributed in compliance with this Agreement prior to
+termination. Sections 2, 5, 6, 7, 9, and 10 survive termination.
+
+
+9. Indemnity
+
+You agree to indemnify and hold harmless Kaelus from any claims, damages,
+losses, and expenses (including legal fees) arising from:
+
+  * your End-User Applications;
+  * your use of the SDK in violation of this Agreement; or
+  * your violation of any applicable law or third-party rights.
+
+
+10. Governing Law
+
+This Agreement is governed by the laws of Queensland, Australia, without
+regard to conflict of law principles.
+
+
+11. General
+
+This Agreement is the entire agreement between you and Kaelus regarding the
+SDK. If any provision is unenforceable, the remainder continues in full force.
+If you provide Kaelus with any suggestions, comments, or improvements
+("Feedback"), Kaelus may use such Feedback without restriction or obligation.
+
+
+Copyright (c) 2026 Kaelus. All rights reserved.
