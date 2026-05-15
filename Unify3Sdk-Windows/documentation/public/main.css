@@ -1,0 +1,15 @@
+/* Add spacing for navbar logo in DocFX modern template */
+.navbar .navbar-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.navbar .navbar-brand img#logo,
+.navbar .navbar-brand svg#logo,
+.navbar .navbar-brand .svg#logo {
+  width: auto;
+  height: 32px;
+  margin-right: 0;
+  flex: 0 0 auto;
+}
