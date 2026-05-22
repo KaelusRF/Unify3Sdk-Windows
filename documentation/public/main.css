@@ -13,3 +13,57 @@
   margin-right: 0;
   flex: 0 0 auto;
 }
+
+.attributeList {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Override default styles for attribute list */
+.attributeList dt {
+  font-weight: 600 !important;
+  margin-bottom: 0.5rem;
+}
+
+.attributeList dd {
+  margin-left: 0;
+}
+
+.attributeList.stack dd > div {
+  margin-bottom: 0.35rem;
+}
+
+.break-text {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+body[data-yaml-mime="ApiPage"] article a,
+body[data-yaml-mime="ApiPage"] article .xref {
+  text-decoration: none;
+}
+
+body[data-yaml-mime="ApiPage"] article a:hover,
+body[data-yaml-mime="ApiPage"] article .xref:hover,
+body[data-yaml-mime="ApiPage"] article a:focus,
+body[data-yaml-mime="ApiPage"] article .xref:focus {
+  text-decoration: underline;
+}
+
+.implements .xref {
+  text-decoration: none;
+}
+
+.implements .xref:hover {
+  text-decoration: underline;
+}
+
+.typelist.inheritance dd > div {
+  margin-left: 0;
+  font-size: var(--bs-body-font-size, 1rem);
+}
+
+.typelist.inheritance dd {
+  padding-left: 1rem;
+  font-size: 0;
+}
