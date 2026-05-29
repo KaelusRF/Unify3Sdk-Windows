@@ -1,0 +1,3034 @@
+{
+  "source_base_path": "C:/Users/nadia.dmello/Documents/unify3/WindowsSdk/Docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.BatchedTestResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.BatchedTestResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.BatchedTestResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.BatchedTestResult.yml\" sourcestartlinenumber=\"1\">A batched test result.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.BatteryState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.BatteryState.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.BatteryState",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.BatteryState.yml\" sourcestartlinenumber=\"1\">The battery state.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.BatteryStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.BatteryStatus.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.BatteryStatus",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.BatteryStatus.yml\" sourcestartlinenumber=\"1\">The battery status.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaCableLossFrequencyTrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaCableLossFrequencyTrace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaCableLossFrequencyTrace",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaCableLossFrequencyTrace.yml\" sourcestartlinenumber=\"1\">A CAA cable loss frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaCableLossFrequencyTraceBlocker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaCableLossFrequencyTraceBlocker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaCableLossFrequencyTraceBlocker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaCableLossFrequencyTraceBlocker.yml\" sourcestartlinenumber=\"1\">A blocker for the CAA cable loss frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaCableLossFrequencyTraceConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaCableLossFrequencyTraceConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaCableLossFrequencyTraceConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaCableLossFrequencyTraceConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the CAA cable loss frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaCableLossFrequencyTraceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaCableLossFrequencyTraceContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaCableLossFrequencyTraceContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaCableLossFrequencyTraceContext.yml\" sourcestartlinenumber=\"1\">The context for the CAA cable loss frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaCableLossFrequencyTraceFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaCableLossFrequencyTraceFormat.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaCableLossFrequencyTraceFormat",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaCableLossFrequencyTraceFormat.yml\" sourcestartlinenumber=\"1\">The available CAA cable loss frequency trace format values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaCableLossFrequencyTraceValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaCableLossFrequencyTraceValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaCableLossFrequencyTraceValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaCableLossFrequencyTraceValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the CAA cable loss frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaCableLossFrequencyTraceValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaCableLossFrequencyTraceValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaCableLossFrequencyTraceValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaCableLossFrequencyTraceValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the CAA cable loss frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaCableLossTimeTrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaCableLossTimeTrace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaCableLossTimeTrace",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaCableLossTimeTrace.yml\" sourcestartlinenumber=\"1\">A CAA cable loss time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaCableLossTimeTraceBlocker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaCableLossTimeTraceBlocker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaCableLossTimeTraceBlocker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaCableLossTimeTraceBlocker.yml\" sourcestartlinenumber=\"1\">A blocker for the CAA cable loss time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaCableLossTimeTraceConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaCableLossTimeTraceConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaCableLossTimeTraceConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaCableLossTimeTraceConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the CAA cable loss time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaCableLossTimeTraceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaCableLossTimeTraceContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaCableLossTimeTraceContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaCableLossTimeTraceContext.yml\" sourcestartlinenumber=\"1\">The context for the CAA cable loss time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaCableLossTimeTraceFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaCableLossTimeTraceFormat.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaCableLossTimeTraceFormat",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaCableLossTimeTraceFormat.yml\" sourcestartlinenumber=\"1\">The available CAA cable loss time trace format values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaCableLossTimeTraceValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaCableLossTimeTraceValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaCableLossTimeTraceValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaCableLossTimeTraceValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the CAA cable loss time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaCableLossTimeTraceValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaCableLossTimeTraceValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaCableLossTimeTraceValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaCableLossTimeTraceValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the CAA cable loss time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaInstrumentDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaInstrumentDefinition.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaInstrumentDefinition",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaInstrumentDefinition.yml\" sourcestartlinenumber=\"1\">A CAA instrument definition.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaPreampMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaPreampMode.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaPreampMode",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaPreampMode.yml\" sourcestartlinenumber=\"1\">The available CAA preamp modes.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossDistanceTrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossDistanceTrace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossDistanceTrace",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossDistanceTrace.yml\" sourcestartlinenumber=\"1\">A CAA return loss distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossDistanceTraceBlocker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossDistanceTraceBlocker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossDistanceTraceBlocker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossDistanceTraceBlocker.yml\" sourcestartlinenumber=\"1\">A blocker for the CAA return loss distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossDistanceTraceConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossDistanceTraceConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossDistanceTraceConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossDistanceTraceConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the CAA return loss distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossDistanceTraceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossDistanceTraceContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossDistanceTraceContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossDistanceTraceContext.yml\" sourcestartlinenumber=\"1\">The context for the CAA return loss distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossDistanceTraceFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossDistanceTraceFormat.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossDistanceTraceFormat",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossDistanceTraceFormat.yml\" sourcestartlinenumber=\"1\">The available CAA return loss distance trace format values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossDistanceTraceValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossDistanceTraceValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossDistanceTraceValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossDistanceTraceValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the CAA return loss distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossDistanceTraceValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossDistanceTraceValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossDistanceTraceValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossDistanceTraceValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the CAA return loss distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossFrequencyTrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossFrequencyTrace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossFrequencyTrace",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossFrequencyTrace.yml\" sourcestartlinenumber=\"1\">A CAA return loss frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossFrequencyTraceBlocker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossFrequencyTraceBlocker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossFrequencyTraceBlocker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossFrequencyTraceBlocker.yml\" sourcestartlinenumber=\"1\">A blocker for the CAA return loss frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossFrequencyTraceConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossFrequencyTraceConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossFrequencyTraceConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossFrequencyTraceConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the CAA return loss frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossFrequencyTraceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossFrequencyTraceContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossFrequencyTraceContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossFrequencyTraceContext.yml\" sourcestartlinenumber=\"1\">The context for the CAA return loss frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossFrequencyTraceFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossFrequencyTraceFormat.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossFrequencyTraceFormat",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossFrequencyTraceFormat.yml\" sourcestartlinenumber=\"1\">The available CAA return loss frequency trace format values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossFrequencyTraceValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossFrequencyTraceValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossFrequencyTraceValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossFrequencyTraceValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the CAA return loss frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossFrequencyTraceValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossFrequencyTraceValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossFrequencyTraceValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossFrequencyTraceValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the CAA return loss frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossTimeTrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossTimeTrace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossTimeTrace",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossTimeTrace.yml\" sourcestartlinenumber=\"1\">A CAA return loss time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossTimeTraceBlocker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossTimeTraceBlocker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossTimeTraceBlocker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossTimeTraceBlocker.yml\" sourcestartlinenumber=\"1\">A blocker for the CAA return loss time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossTimeTraceConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossTimeTraceConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossTimeTraceConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossTimeTraceConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the CAA return loss time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossTimeTraceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossTimeTraceContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossTimeTraceContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossTimeTraceContext.yml\" sourcestartlinenumber=\"1\">The context for the CAA return loss time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossTimeTraceFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossTimeTraceFormat.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossTimeTraceFormat",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossTimeTraceFormat.yml\" sourcestartlinenumber=\"1\">The available CAA return loss time trace format values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossTimeTraceValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossTimeTraceValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossTimeTraceValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossTimeTraceValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the CAA return loss time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaReturnLossTimeTraceValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaReturnLossTimeTraceValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaReturnLossTimeTraceValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaReturnLossTimeTraceValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the CAA return loss time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaSpectrumFrequencyTrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaSpectrumFrequencyTrace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaSpectrumFrequencyTrace",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaSpectrumFrequencyTrace.yml\" sourcestartlinenumber=\"1\">A CAA spectrum frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaSpectrumFrequencyTraceBlocker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaSpectrumFrequencyTraceBlocker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaSpectrumFrequencyTraceBlocker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaSpectrumFrequencyTraceBlocker.yml\" sourcestartlinenumber=\"1\">A blocker for the CAA spectrum frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaSpectrumFrequencyTraceConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaSpectrumFrequencyTraceConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaSpectrumFrequencyTraceConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaSpectrumFrequencyTraceConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the CAA spectrum frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaSpectrumFrequencyTraceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaSpectrumFrequencyTraceContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaSpectrumFrequencyTraceContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaSpectrumFrequencyTraceContext.yml\" sourcestartlinenumber=\"1\">The context for the CAA spectrum frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaSpectrumFrequencyTraceValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaSpectrumFrequencyTraceValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaSpectrumFrequencyTraceValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaSpectrumFrequencyTraceValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the CAA spectrum frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaSpectrumFrequencyTraceValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaSpectrumFrequencyTraceValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaSpectrumFrequencyTraceValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaSpectrumFrequencyTraceValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the CAA spectrum frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaSpectrumTimeTrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaSpectrumTimeTrace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaSpectrumTimeTrace",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaSpectrumTimeTrace.yml\" sourcestartlinenumber=\"1\">A CAA spectrum time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaSpectrumTimeTraceBlocker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaSpectrumTimeTraceBlocker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaSpectrumTimeTraceBlocker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaSpectrumTimeTraceBlocker.yml\" sourcestartlinenumber=\"1\">A blocker for the CAA spectrum time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaSpectrumTimeTraceConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaSpectrumTimeTraceConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaSpectrumTimeTraceConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaSpectrumTimeTraceConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the CAA spectrum time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaSpectrumTimeTraceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaSpectrumTimeTraceContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaSpectrumTimeTraceContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaSpectrumTimeTraceContext.yml\" sourcestartlinenumber=\"1\">The context for the CAA spectrum time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaSpectrumTimeTraceValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaSpectrumTimeTraceValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaSpectrumTimeTraceValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaSpectrumTimeTraceValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the CAA spectrum time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CaaSpectrumTimeTraceValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CaaSpectrumTimeTraceValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CaaSpectrumTimeTraceValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CaaSpectrumTimeTraceValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the CAA spectrum time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.Calibration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.Calibration.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.Calibration",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.Calibration.yml\" sourcestartlinenumber=\"1\">A calibration.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CalibrationConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CalibrationConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CalibrationConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CalibrationConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the calibration.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CalibrationState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CalibrationState.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CalibrationState",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CalibrationState.yml\" sourcestartlinenumber=\"1\">The calibration state.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CalibrationStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CalibrationStatus.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CalibrationStatus",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CalibrationStatus.yml\" sourcestartlinenumber=\"1\">The instrument or trace calibration status.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.CalibrationStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.CalibrationStep.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.CalibrationStep",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.CalibrationStep.yml\" sourcestartlinenumber=\"1\">A calibration step.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.Cardinality.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.Cardinality.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.Cardinality",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.Cardinality.yml\" sourcestartlinenumber=\"1\">The available cardinalities.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ConnectionResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ConnectionResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ConnectionResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ConnectionResult.yml\" sourcestartlinenumber=\"1\">The result of a connection attempt.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ConnectionState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ConnectionState.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ConnectionState",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ConnectionState.yml\" sourcestartlinenumber=\"1\">The connection state.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ConnectionStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ConnectionStatus.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ConnectionStatus",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ConnectionStatus.yml\" sourcestartlinenumber=\"1\">The available connection statuses.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ConnectionType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ConnectionType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ConnectionType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ConnectionType.yml\" sourcestartlinenumber=\"1\">The available connection types.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.Extent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.Extent.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.Extent",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.Extent.yml\" sourcestartlinenumber=\"1\">A structure defining a range of values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.FixedMarker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.FixedMarker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.FixedMarker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.FixedMarker.yml\" sourcestartlinenumber=\"1\">Puts a marker at a fixed x,y point on the plot</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.FixedMarkerConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.FixedMarkerConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.FixedMarkerConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.FixedMarkerConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the fixed marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.FixedMarkerValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.FixedMarkerValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.FixedMarkerValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.FixedMarkerValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the fixed marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.FixedMarkerValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.FixedMarkerValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.FixedMarkerValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.FixedMarkerValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the fixed marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.FrequencyUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.FrequencyUnit.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.FrequencyUnit",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.FrequencyUnit.yml\" sourcestartlinenumber=\"1\">The available frequency unit values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.Instrument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.Instrument.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.Instrument",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.Instrument.yml\" sourcestartlinenumber=\"1\">An instrument.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.InstrumentDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.InstrumentDefinition.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.InstrumentDefinition",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.InstrumentDefinition.yml\" sourcestartlinenumber=\"1\">An instrument definition.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.InstrumentLockedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.InstrumentLockedException.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.InstrumentLockedException",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.InstrumentLockedException.yml\" sourcestartlinenumber=\"1\">Raised when an instrument is locked and cannot be used</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.InstrumentNotConnectedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.InstrumentNotConnectedException.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.InstrumentNotConnectedException",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.InstrumentNotConnectedException.yml\" sourcestartlinenumber=\"1\">Raised when an instrument is not connected and cannot be used</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.InstrumentType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.InstrumentType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.InstrumentType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.InstrumentType.yml\" sourcestartlinenumber=\"1\">The available instrument types.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaBand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaBand.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaBand",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaBand.yml\" sourcestartlinenumber=\"1\">A definition of an iPA band.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaInstrumentDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaInstrumentDefinition.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaInstrumentDefinition",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaInstrumentDefinition.yml\" sourcestartlinenumber=\"1\">An IPA instrument definition.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaNextGenPimFrequencyTrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaNextGenPimFrequencyTrace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaNextGenPimFrequencyTrace",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaNextGenPimFrequencyTrace.yml\" sourcestartlinenumber=\"1\">An IPA next gen PIM frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaNextGenPimFrequencyTraceBlocker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaNextGenPimFrequencyTraceBlocker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaNextGenPimFrequencyTraceBlocker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaNextGenPimFrequencyTraceBlocker.yml\" sourcestartlinenumber=\"1\">A blocker for the IPA next gen PIM frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaNextGenPimFrequencyTraceConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaNextGenPimFrequencyTraceConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaNextGenPimFrequencyTraceConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaNextGenPimFrequencyTraceConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the IPA next gen PIM frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaNextGenPimFrequencyTraceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaNextGenPimFrequencyTraceContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaNextGenPimFrequencyTraceContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaNextGenPimFrequencyTraceContext.yml\" sourcestartlinenumber=\"1\">The context for the IPA next gen PIM frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaNextGenPimFrequencyTraceValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaNextGenPimFrequencyTraceValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaNextGenPimFrequencyTraceValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaNextGenPimFrequencyTraceValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the IPA next gen PIM frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaNextGenPimFrequencyTraceValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaNextGenPimFrequencyTraceValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaNextGenPimFrequencyTraceValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaNextGenPimFrequencyTraceValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the IPA next gen PIM frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimDistanceTrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimDistanceTrace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimDistanceTrace",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimDistanceTrace.yml\" sourcestartlinenumber=\"1\">An IPA PIM distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimDistanceTraceBlocker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimDistanceTraceBlocker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimDistanceTraceBlocker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimDistanceTraceBlocker.yml\" sourcestartlinenumber=\"1\">A blocker for the IPA PIM distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimDistanceTraceConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimDistanceTraceConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimDistanceTraceConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimDistanceTraceConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the IPA PIM distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimDistanceTraceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimDistanceTraceContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimDistanceTraceContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimDistanceTraceContext.yml\" sourcestartlinenumber=\"1\">The context for the IPA PIM distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimDistanceTraceValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimDistanceTraceValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimDistanceTraceValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimDistanceTraceValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the IPA PIM distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimDistanceTraceValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimDistanceTraceValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimDistanceTraceValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimDistanceTraceValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the IPA PIM distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimFrequencyTrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimFrequencyTrace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimFrequencyTrace",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimFrequencyTrace.yml\" sourcestartlinenumber=\"1\">An IPA PIM frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimFrequencyTraceBlocker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimFrequencyTraceBlocker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimFrequencyTraceBlocker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimFrequencyTraceBlocker.yml\" sourcestartlinenumber=\"1\">A blocker for the IPA PIM frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimFrequencyTraceConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimFrequencyTraceConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimFrequencyTraceConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimFrequencyTraceConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the IPA PIM frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimFrequencyTraceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimFrequencyTraceContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimFrequencyTraceContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimFrequencyTraceContext.yml\" sourcestartlinenumber=\"1\">The context for the IPA PIM frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimFrequencyTraceValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimFrequencyTraceValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimFrequencyTraceValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimFrequencyTraceValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the IPA PIM frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimFrequencyTraceValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimFrequencyTraceValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimFrequencyTraceValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimFrequencyTraceValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the IPA PIM frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimIdleTrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimIdleTrace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimIdleTrace",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimIdleTrace.yml\" sourcestartlinenumber=\"1\">An IPA PIM idle trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimIdleTraceBlocker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimIdleTraceBlocker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimIdleTraceBlocker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimIdleTraceBlocker.yml\" sourcestartlinenumber=\"1\">A blocker for the IPA PIM idle trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimIdleTraceConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimIdleTraceConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimIdleTraceConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimIdleTraceConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the IPA PIM idle trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimIdleTraceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimIdleTraceContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimIdleTraceContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimIdleTraceContext.yml\" sourcestartlinenumber=\"1\">The context for the IPA PIM idle trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimIdleTraceValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimIdleTraceValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimIdleTraceValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimIdleTraceValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the IPA PIM idle trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimIdleTraceValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimIdleTraceValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimIdleTraceValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimIdleTraceValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the IPA PIM idle trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimTimeTrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimTimeTrace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimTimeTrace",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimTimeTrace.yml\" sourcestartlinenumber=\"1\">An IPA PIM time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimTimeTraceBlocker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimTimeTraceBlocker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimTimeTraceBlocker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimTimeTraceBlocker.yml\" sourcestartlinenumber=\"1\">A blocker for the IPA PIM time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimTimeTraceConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimTimeTraceConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimTimeTraceConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimTimeTraceConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the IPA PIM time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimTimeTraceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimTimeTraceContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimTimeTraceContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimTimeTraceContext.yml\" sourcestartlinenumber=\"1\">The context for the IPA PIM time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimTimeTraceValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimTimeTraceValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimTimeTraceValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimTimeTraceValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the IPA PIM time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaPimTimeTraceValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaPimTimeTraceValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaPimTimeTraceValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaPimTimeTraceValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the IPA PIM time trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaReturnLossDistanceTrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaReturnLossDistanceTrace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaReturnLossDistanceTrace",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaReturnLossDistanceTrace.yml\" sourcestartlinenumber=\"1\">An IPA return loss distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaReturnLossDistanceTraceBlocker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaReturnLossDistanceTraceBlocker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaReturnLossDistanceTraceBlocker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaReturnLossDistanceTraceBlocker.yml\" sourcestartlinenumber=\"1\">A blocker for the IPA return loss distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaReturnLossDistanceTraceConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaReturnLossDistanceTraceConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaReturnLossDistanceTraceConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaReturnLossDistanceTraceConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the IPA return loss distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaReturnLossDistanceTraceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaReturnLossDistanceTraceContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaReturnLossDistanceTraceContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaReturnLossDistanceTraceContext.yml\" sourcestartlinenumber=\"1\">The context for the IPA return loss distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaReturnLossDistanceTraceFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaReturnLossDistanceTraceFormat.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaReturnLossDistanceTraceFormat",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaReturnLossDistanceTraceFormat.yml\" sourcestartlinenumber=\"1\">The available IPA return loss distance trace format values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaReturnLossDistanceTraceValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaReturnLossDistanceTraceValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaReturnLossDistanceTraceValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaReturnLossDistanceTraceValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the IPA return loss distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaReturnLossDistanceTraceValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaReturnLossDistanceTraceValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaReturnLossDistanceTraceValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaReturnLossDistanceTraceValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the IPA return loss distance trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaSpectrumFrequencyTrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaSpectrumFrequencyTrace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaSpectrumFrequencyTrace",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaSpectrumFrequencyTrace.yml\" sourcestartlinenumber=\"1\">An IPA spectrum frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaSpectrumFrequencyTraceBlocker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaSpectrumFrequencyTraceBlocker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaSpectrumFrequencyTraceBlocker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaSpectrumFrequencyTraceBlocker.yml\" sourcestartlinenumber=\"1\">A blocker for the IPA spectrum frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaSpectrumFrequencyTraceConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaSpectrumFrequencyTraceConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaSpectrumFrequencyTraceConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaSpectrumFrequencyTraceConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the IPA spectrum frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaSpectrumFrequencyTraceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaSpectrumFrequencyTraceContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaSpectrumFrequencyTraceContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaSpectrumFrequencyTraceContext.yml\" sourcestartlinenumber=\"1\">The context for the IPA spectrum frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaSpectrumFrequencyTraceValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaSpectrumFrequencyTraceValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaSpectrumFrequencyTraceValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaSpectrumFrequencyTraceValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the IPA spectrum frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.IpaSpectrumFrequencyTraceValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.IpaSpectrumFrequencyTraceValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.IpaSpectrumFrequencyTraceValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.IpaSpectrumFrequencyTraceValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the IPA spectrum frequency trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.LengthUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.LengthUnit.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.LengthUnit",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.LengthUnit.yml\" sourcestartlinenumber=\"1\">The available length unit values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.Location.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.Location.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.Location",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.Location.yml\" sourcestartlinenumber=\"1\">A location.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.Log.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.Log.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.Log",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.Log.yml\" sourcestartlinenumber=\"1\">A log entry.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.LogLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.LogLevel.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.LogLevel",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.LogLevel.yml\" sourcestartlinenumber=\"1\">The available log levels.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.MarkerResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.MarkerResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.MarkerResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.MarkerResult.yml\" sourcestartlinenumber=\"1\">A marker result.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.MaximumLimit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.MaximumLimit.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.MaximumLimit",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.MaximumLimit.yml\" sourcestartlinenumber=\"1\">A maximum limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.MaximumLimitConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.MaximumLimitConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.MaximumLimitConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.MaximumLimitConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the maximum limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.MaximumLimitResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.MaximumLimitResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.MaximumLimitResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.MaximumLimitResult.yml\" sourcestartlinenumber=\"1\">A maximum limit result.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.MaximumLimitValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.MaximumLimitValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.MaximumLimitValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.MaximumLimitValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the maximum limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.MaximumLimitValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.MaximumLimitValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.MaximumLimitValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.MaximumLimitValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the maximum limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.MeasurementFaultException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.MeasurementFaultException.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.MeasurementFaultException",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.MeasurementFaultException.yml\" sourcestartlinenumber=\"1\">Raised when a fault is detected during a measurement</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.MinimumLimit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.MinimumLimit.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.MinimumLimit",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.MinimumLimit.yml\" sourcestartlinenumber=\"1\">A minimum limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.MinimumLimitConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.MinimumLimitConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.MinimumLimitConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.MinimumLimitConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the minimum limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.MinimumLimitResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.MinimumLimitResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.MinimumLimitResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.MinimumLimitResult.yml\" sourcestartlinenumber=\"1\">A minimum limit result.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.MinimumLimitValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.MinimumLimitValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.MinimumLimitValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.MinimumLimitValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the minimum limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.MinimumLimitValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.MinimumLimitValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.MinimumLimitValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.MinimumLimitValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the minimum limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.NearestPeakMarker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.NearestPeakMarker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.NearestPeakMarker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.NearestPeakMarker.yml\" sourcestartlinenumber=\"1\">Puts a marker on the trace at the nearest peak to a fixed x position</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.NearestPeakMarkerConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.NearestPeakMarkerConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.NearestPeakMarkerConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.NearestPeakMarkerConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the nearest peak marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.NearestPeakMarkerValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.NearestPeakMarkerValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.NearestPeakMarkerValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.NearestPeakMarkerValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the nearest peak marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.NearestPeakMarkerValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.NearestPeakMarkerValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.NearestPeakMarkerValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.NearestPeakMarkerValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the nearest peak marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.NearestValleyMarker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.NearestValleyMarker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.NearestValleyMarker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.NearestValleyMarker.yml\" sourcestartlinenumber=\"1\">Puts a marker on the trace at the nearest valley to a fixed x position</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.NearestValleyMarkerConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.NearestValleyMarkerConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.NearestValleyMarkerConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.NearestValleyMarkerConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the nearest valley marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.NearestValleyMarkerValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.NearestValleyMarkerValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.NearestValleyMarkerValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.NearestValleyMarkerValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the nearest valley marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.NearestValleyMarkerValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.NearestValleyMarkerValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.NearestValleyMarkerValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.NearestValleyMarkerValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the nearest valley marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OffsetMarker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OffsetMarker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OffsetMarker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OffsetMarker.yml\" sourcestartlinenumber=\"1\">Puts a marker on the trace at an x position that is offset from the reference marker</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OffsetMarkerConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OffsetMarkerConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OffsetMarkerConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OffsetMarkerConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the offset marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OffsetMarkerValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OffsetMarkerValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OffsetMarkerValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OffsetMarkerValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the offset marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OffsetMarkerValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OffsetMarkerValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OffsetMarkerValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OffsetMarkerValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the offset marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.Ordering.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.Ordering.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.Ordering",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.Ordering.yml\" sourcestartlinenumber=\"1\">The available ordering values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.Orientation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.Orientation.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.Orientation",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.Orientation.yml\" sourcestartlinenumber=\"1\">The available orientation values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OslCalKit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OslCalKit.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OslCalKit",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OslCalKit.yml\" sourcestartlinenumber=\"1\">An OSL cal kit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OslCalibration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OslCalibration.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OslCalibration",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OslCalibration.yml\" sourcestartlinenumber=\"1\">An OSL calibration.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OslCalibrationConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OslCalibrationConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OslCalibrationConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OslCalibrationConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the OSL calibration.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OslCalibrationState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OslCalibrationState.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OslCalibrationState",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OslCalibrationState.yml\" sourcestartlinenumber=\"1\">The OSL calibration state.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OslCalibrationValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OslCalibrationValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OslCalibrationValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OslCalibrationValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the OSL calibration.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OslCalibrationValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OslCalibrationValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OslCalibrationValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OslCalibrationValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the OSL calibration.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.Overlay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.Overlay.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.Overlay",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.Overlay.yml\" sourcestartlinenumber=\"1\">An overlay.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OverlayConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OverlayConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OverlayConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OverlayConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the overlay.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OverlayResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OverlayResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OverlayResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OverlayResult.yml\" sourcestartlinenumber=\"1\">An overlay result.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OverlaySet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OverlaySet.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OverlaySet",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OverlaySet.yml\" sourcestartlinenumber=\"1\">An overlay set.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OverlaySetConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OverlaySetConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OverlaySetConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OverlaySetConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the overlay set.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OverlaySetValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OverlaySetValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OverlaySetValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OverlaySetValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the overlay set.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.OverlaySetValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.OverlaySetValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.OverlaySetValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.OverlaySetValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the overlay set.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.PeakMarker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.PeakMarker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.PeakMarker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.PeakMarker.yml\" sourcestartlinenumber=\"1\">Puts a marker on the trace at the highest point</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.PeakMarkerConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.PeakMarkerConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.PeakMarkerConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.PeakMarkerConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the peak marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.PeakMarkerValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.PeakMarkerValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.PeakMarkerValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.PeakMarkerValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the peak marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.PeakMarkerValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.PeakMarkerValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.PeakMarkerValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.PeakMarkerValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the peak marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.PhaseUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.PhaseUnit.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.PhaseUnit",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.PhaseUnit.yml\" sourcestartlinenumber=\"1\">The available phase unit values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.PimUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.PimUnit.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.PimUnit",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.PimUnit.yml\" sourcestartlinenumber=\"1\">The available PIM unit values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.Point.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.Point.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.Point",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.Point.yml\" sourcestartlinenumber=\"1\">A point.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.Port.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.Port.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.Port",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.Port.yml\" sourcestartlinenumber=\"1\">The instrument ports.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.PowerUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.PowerUnit.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.PowerUnit",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.PowerUnit.yml\" sourcestartlinenumber=\"1\">The available power unit values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.Product.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.Product.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.Product",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.Product.yml\" sourcestartlinenumber=\"1\">A measurable RF product (intermodulation or harmonic) generated during a PIM test.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ProductSide.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ProductSide.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ProductSide",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ProductSide.yml\" sourcestartlinenumber=\"1\">The spectral side of an intermodulation product.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ProductType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ProductType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ProductType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ProductType.yml\" sourcestartlinenumber=\"1\">The type of RF product generated during a PIM measurement.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.RealtimeTestResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.RealtimeTestResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.RealtimeTestResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.RealtimeTestResult.yml\" sourcestartlinenumber=\"1\">A realtime test result.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ReportConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ReportConfiguration.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ReportConfiguration",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ReportConfiguration.yml\" sourcestartlinenumber=\"1\">A report configuration.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.RippleLimit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.RippleLimit.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.RippleLimit",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.RippleLimit.yml\" sourcestartlinenumber=\"1\">A ripple limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.RippleLimitConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.RippleLimitConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.RippleLimitConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.RippleLimitConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the ripple limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.RippleLimitResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.RippleLimitResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.RippleLimitResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.RippleLimitResult.yml\" sourcestartlinenumber=\"1\">A ripple limit result.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.RippleLimitValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.RippleLimitValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.RippleLimitValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.RippleLimitValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the ripple limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.RippleLimitValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.RippleLimitValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.RippleLimitValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.RippleLimitValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the ripple limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.RlCheckException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.RlCheckException.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.RlCheckException",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.RlCheckException.yml\" sourcestartlinenumber=\"1\">Raised when the return loss check fails</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.RtfState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.RtfState.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.RtfState",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.RtfState.yml\" sourcestartlinenumber=\"1\">The RTF state.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.RtfZeroingCalibration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.RtfZeroingCalibration.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.RtfZeroingCalibration",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.RtfZeroingCalibration.yml\" sourcestartlinenumber=\"1\">A RTF zeroing calibration.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.RtfZeroingCalibrationConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.RtfZeroingCalibrationConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.RtfZeroingCalibrationConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.RtfZeroingCalibrationConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the RTF zeroing calibration.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.RtfZeroingCalibrationState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.RtfZeroingCalibrationState.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.RtfZeroingCalibrationState",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.RtfZeroingCalibrationState.yml\" sourcestartlinenumber=\"1\">The RTF zeroing calibration state.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.RtfZeroingCalibrationValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.RtfZeroingCalibrationValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.RtfZeroingCalibrationValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.RtfZeroingCalibrationValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the RTF zeroing calibration.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.RtfZeroingCalibrationValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.RtfZeroingCalibrationValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.RtfZeroingCalibrationValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.RtfZeroingCalibrationValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the RTF zeroing calibration.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.Test.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.Test.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.Test",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.Test.yml\" sourcestartlinenumber=\"1\">Test is used to configure a collection of measurements.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.TestConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.TestConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.TestConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.TestConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring a test.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.TestContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.TestContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.TestContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.TestContext.yml\" sourcestartlinenumber=\"1\">The context for the test.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.TestProgress.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.TestProgress.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.TestProgress",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.TestProgress.yml\" sourcestartlinenumber=\"1\">Progress information for a test.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.TimeUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.TimeUnit.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.TimeUnit",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.TimeUnit.yml\" sourcestartlinenumber=\"1\">The available time unit values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.TimeoutException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.TimeoutException.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.TimeoutException",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.TimeoutException.yml\" sourcestartlinenumber=\"1\">Raised when a measurement takes longer than the allotted duration</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ToleranceLimit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ToleranceLimit.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ToleranceLimit",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ToleranceLimit.yml\" sourcestartlinenumber=\"1\">A tolerance limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ToleranceLimitConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ToleranceLimitConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ToleranceLimitConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ToleranceLimitConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the tolerance limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ToleranceLimitResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ToleranceLimitResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ToleranceLimitResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ToleranceLimitResult.yml\" sourcestartlinenumber=\"1\">A tolerance limit result.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ToleranceLimitValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ToleranceLimitValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ToleranceLimitValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ToleranceLimitValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the tolerance limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ToleranceLimitValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ToleranceLimitValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ToleranceLimitValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ToleranceLimitValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the tolerance limit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.Trace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.Trace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.Trace",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.Trace.yml\" sourcestartlinenumber=\"1\">A trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.TraceChange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.TraceChange.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.TraceChange",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.TraceChange.yml\" sourcestartlinenumber=\"1\">A trace change.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.TraceChangeAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.TraceChangeAction.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.TraceChangeAction",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.TraceChangeAction.yml\" sourcestartlinenumber=\"1\">The available trace change actions.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.TraceConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.TraceConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.TraceConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.TraceConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.TraceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.TraceContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.TraceContext",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.TraceContext.yml\" sourcestartlinenumber=\"1\">The context for the trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.TxDefaultFrequencyPair.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.TxDefaultFrequencyPair.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.TxDefaultFrequencyPair",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.TxDefaultFrequencyPair.yml\" sourcestartlinenumber=\"1\">The default transmitter frequencies for a band and IM product.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.Unify.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.Unify.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.Unify",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.Unify.yml\" sourcestartlinenumber=\"1\">The main unify interface</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.UserCancelledException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.UserCancelledException.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.UserCancelledException",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.UserCancelledException.yml\" sourcestartlinenumber=\"1\">Raised when the user cancels a measurement</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ValleyMarker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ValleyMarker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ValleyMarker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ValleyMarker.yml\" sourcestartlinenumber=\"1\">Puts a marker on the trace at the lowest point</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ValleyMarkerConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ValleyMarkerConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ValleyMarkerConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ValleyMarkerConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the valley marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ValleyMarkerValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ValleyMarkerValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ValleyMarkerValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ValleyMarkerValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the valley marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ValleyMarkerValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ValleyMarkerValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ValleyMarkerValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ValleyMarkerValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the valley marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ValueMarker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ValueMarker.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ValueMarker",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ValueMarker.yml\" sourcestartlinenumber=\"1\">Puts a marker on the trace at a fixed x position</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ValueMarkerConfigurationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ValueMarkerConfigurationResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ValueMarkerConfigurationResult",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ValueMarkerConfigurationResult.yml\" sourcestartlinenumber=\"1\">The result of configuring the value marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ValueMarkerValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ValueMarkerValidationError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ValueMarkerValidationError",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ValueMarkerValidationError.yml\" sourcestartlinenumber=\"1\">A validation error for the value marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.ValueMarkerValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.ValueMarkerValidationErrorType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk.ValueMarkerValidationErrorType",
+      "Summary": "<p sourcefile=\"build/Unify3Sdk.ValueMarkerValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the value marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Unify3Sdk.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Unify3Sdk.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Unify3Sdk",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "build/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/toc.html"
+        },
+        ".json": {
+          "relative_path": "build/toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
