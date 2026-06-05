@@ -11,3 +11,9 @@ Getting started guides are published at:
 API reference docs are published at:
 
 <https://kaelusrf.github.io/Unify3Sdk-Windows/documentation/unify3sdk>
+
+## Examples
+
+Examples can be found in the repository's Examples directory:
+
+<https://github.com/KaelusRF/Unify3Sdk-Windows/tree/main/Examples>
