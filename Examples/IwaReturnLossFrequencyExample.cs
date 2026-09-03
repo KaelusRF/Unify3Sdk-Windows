@@ -1,4 +1,7 @@
-﻿#:package Kaelus.Unify3Sdk@0.1.2
+﻿// This example discovers and connects to the first available iWA instrument,
+// runs a return loss versus frequency measurement across its supported range,
+// retrieves the batched results, and disconnects when the run completes.
+#:package Kaelus.Unify3Sdk@0.2.0
 using Kaelus.Unify3Sdk;
 using System.Globalization;
 

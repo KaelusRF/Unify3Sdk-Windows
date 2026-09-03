@@ -1,4 +1,7 @@
-#:package Kaelus.Unify3Sdk@0.1.2
+// This example discovers and connects to the first available iWA instrument,
+// configures a return loss measurement to determine its required OSL calibration,
+// and guides the user through each calibration step before disconnecting.
+#:package Kaelus.Unify3Sdk@0.2.0
 using Kaelus.Unify3Sdk;
 using System.Globalization;
 
