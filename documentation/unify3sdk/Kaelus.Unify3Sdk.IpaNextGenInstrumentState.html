@@ -2,11 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8">
-      <title>Class BatchedTestResult | Unify 3 SDK </title>
+      <title>Class IpaNextGenInstrumentState | Unify 3 SDK </title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="title" content="Class BatchedTestResult | Unify 3 SDK ">
+      <meta name="title" content="Class IpaNextGenInstrumentState | Unify 3 SDK ">
       
-      <meta name="description" content="A batched test result.">
+      <meta name="description" content="An IPA Next Gen instrument state.">
       <link rel="icon" href="../Assets/icon_round.svg">
       <link rel="stylesheet" href="../public/docfx.min.css">
       <link rel="stylesheet" href="../public/main.css">
@@ -80,12 +80,12 @@
           <nav id="breadcrumb"></nav>
         </div>
 
-        <article data-uid="Kaelus.Unify3Sdk.BatchedTestResult">
+        <article data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState">
 
 
 
-  <h1 id="Kaelus_Unify3Sdk_BatchedTestResult" data-uid="Kaelus.Unify3Sdk.BatchedTestResult" class="text-break">
-Class BatchedTestResult  
+  <h1 id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState" class="text-break">
+Class IpaNextGenInstrumentState  
   </h1>
 
   <div class="facts text-secondary">
@@ -93,12 +93,12 @@ Class BatchedTestResult
   <dl><dt>Assembly</dt><dd>Kaelus.Unify3Sdk.dll</dd></dl>
   </div>
 
-  <div class="markdown summary"><p>A batched test result.</p>
+  <div class="markdown summary"><p>An IPA Next Gen instrument state.</p>
 </div>
   <div class="markdown conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class BatchedTestResult</code></pre>
+    <pre><code class="lang-csharp hljs">public class IpaNextGenInstrumentState : InstrumentState</code></pre>
   </div>
 
 
@@ -108,10 +108,20 @@ Class BatchedTestResult
     <dt>Inheritance</dt>
     <dd>
       <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">object</a></div>
-      <div><span class="xref">BatchedTestResult</span></div>
+      <div><span class="xref">IpaNextGenInstrumentState</span></div>
     </dd>
   </dl>
 
+  <dl class="attributeList stack implements">
+    <dt>Implements</dt>
+    <dd>
+      <div>
+        <span class="break-text">
+        <a class="xref" href="Kaelus.Unify3Sdk.InstrumentState.html">InstrumentState</a>
+        </span>
+      </div>
+    </dd>
+  </dl>
 
 
   <dl class="attributeList stack inheritedMembers implements">
@@ -154,19 +164,19 @@ Class BatchedTestResult
 </h2>
 
 
-  <a id="Kaelus_Unify3Sdk_BatchedTestResult_FeatureResults_" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.FeatureResults*"></a>
+  <a id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_BatteryState_" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.BatteryState*"></a>
 
-  <h3 id="Kaelus_Unify3Sdk_BatchedTestResult_FeatureResults" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.FeatureResults">
-  FeatureResults
+  <h3 id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_BatteryState" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.BatteryState">
+  BatteryState
   
   </h3>
 
-  <div class="markdown level1 summary"><p>The feature results</p>
+  <div class="markdown level1 summary"><p>The battery state.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public required IList&lt;FeatureResult&gt; FeatureResults { get; set; }</code></pre>
+    <pre><code class="lang-csharp hljs">public required BatteryState BatteryState { get; set; }</code></pre>
   </div>
 
 
@@ -175,7 +185,7 @@ Class BatchedTestResult
 
   <h4 class="section">Property Value</h4>
   <dl class="parameters">
-    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1">IList</a>&lt;<a class="xref" href="Kaelus.Unify3Sdk.FeatureResult.html">FeatureResult</a>&gt;</dt>
+    <dt><a class="xref" href="Kaelus.Unify3Sdk.BatteryState.html">BatteryState</a></dt>
     <dd></dd>
   </dl>
 
@@ -186,19 +196,19 @@ Class BatchedTestResult
 
 
 
-  <a id="Kaelus_Unify3Sdk_BatchedTestResult_TraceIndex_" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.TraceIndex*"></a>
+  <a id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_ConnectionState_" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.ConnectionState*"></a>
 
-  <h3 id="Kaelus_Unify3Sdk_BatchedTestResult_TraceIndex" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.TraceIndex">
-  TraceIndex
+  <h3 id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_ConnectionState" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.ConnectionState">
+  ConnectionState
   
   </h3>
 
-  <div class="markdown level1 summary"><p>The trace index</p>
+  <div class="markdown level1 summary"><p>The connection state.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public required int TraceIndex { get; set; }</code></pre>
+    <pre><code class="lang-csharp hljs">public required ConnectionState ConnectionState { get; set; }</code></pre>
   </div>
 
 
@@ -207,7 +217,7 @@ Class BatchedTestResult
 
   <h4 class="section">Property Value</h4>
   <dl class="parameters">
-    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></dt>
+    <dt><a class="xref" href="Kaelus.Unify3Sdk.ConnectionState.html">ConnectionState</a></dt>
     <dd></dd>
   </dl>
 
@@ -218,19 +228,19 @@ Class BatchedTestResult
 
 
 
-  <a id="Kaelus_Unify3Sdk_BatchedTestResult_TracePoints_" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.TracePoints*"></a>
+  <a id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_IsSoundOn_" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.IsSoundOn*"></a>
 
-  <h3 id="Kaelus_Unify3Sdk_BatchedTestResult_TracePoints" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.TracePoints">
-  TracePoints
+  <h3 id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_IsSoundOn" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.IsSoundOn">
+  IsSoundOn
   
   </h3>
 
-  <div class="markdown level1 summary"><p>The trace points</p>
+  <div class="markdown level1 summary"><p>Whether the sound is on.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public required IList&lt;Point&gt; TracePoints { get; set; }</code></pre>
+    <pre><code class="lang-csharp hljs">public required bool IsSoundOn { get; set; }</code></pre>
   </div>
 
 
@@ -239,7 +249,167 @@ Class BatchedTestResult
 
   <h4 class="section">Property Value</h4>
   <dl class="parameters">
-    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1">IList</a>&lt;<a class="xref" href="Kaelus.Unify3Sdk.Point.html">Point</a>&gt;</dt>
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">bool</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_LastCalibration_" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.LastCalibration*"></a>
+
+  <h3 id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_LastCalibration" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.LastCalibration">
+  LastCalibration
+  
+  </h3>
+
+  <div class="markdown level1 summary"><p>The time of the last instrument calibration.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public DateTime? LastCalibration { get; set; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.datetime">DateTime</a>?</dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_Model_" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.Model*"></a>
+
+  <h3 id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_Model" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.Model">
+  Model
+  
+  </h3>
+
+  <div class="markdown level1 summary"><p>The model.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public required string Model { get; set; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_NextCalibration_" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.NextCalibration*"></a>
+
+  <h3 id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_NextCalibration" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.NextCalibration">
+  NextCalibration
+  
+  </h3>
+
+  <div class="markdown level1 summary"><p>The time that the next instrument calibration is due.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public DateTime? NextCalibration { get; set; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.datetime">DateTime</a>?</dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_SerialNumber_" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.SerialNumber*"></a>
+
+  <h3 id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_SerialNumber" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.SerialNumber">
+  SerialNumber
+  
+  </h3>
+
+  <div class="markdown level1 summary"><p>The serial number.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public required string SerialNumber { get; set; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_SoftwareVersions_" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.SoftwareVersions*"></a>
+
+  <h3 id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_SoftwareVersions" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.SoftwareVersions">
+  SoftwareVersions
+  
+  </h3>
+
+  <div class="markdown level1 summary"><p>The software versions.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public required IList&lt;string&gt; SoftwareVersions { get; set; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1">IList</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a>&gt;</dt>
     <dd></dd>
   </dl>
 
@@ -254,9 +424,9 @@ Class BatchedTestResult
 </h2>
 
 
-  <a id="Kaelus_Unify3Sdk_BatchedTestResult_Equals_" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.Equals*"></a>
+  <a id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_Equals_" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.Equals*"></a>
 
-  <h3 id="Kaelus_Unify3Sdk_BatchedTestResult_Equals_System_Object_" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.Equals(System.Object)">
+  <h3 id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_Equals_System_Object_" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.Equals(System.Object)">
   Equals(object?)
   
   </h3>
@@ -292,9 +462,9 @@ Class BatchedTestResult
 
 
 
-  <a id="Kaelus_Unify3Sdk_BatchedTestResult_GetHashCode_" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.GetHashCode*"></a>
+  <a id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_GetHashCode_" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.GetHashCode*"></a>
 
-  <h3 id="Kaelus_Unify3Sdk_BatchedTestResult_GetHashCode" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.GetHashCode">
+  <h3 id="Kaelus_Unify3Sdk_IpaNextGenInstrumentState_GetHashCode" data-uid="Kaelus.Unify3Sdk.IpaNextGenInstrumentState.GetHashCode">
   GetHashCode()
   
   </h3>

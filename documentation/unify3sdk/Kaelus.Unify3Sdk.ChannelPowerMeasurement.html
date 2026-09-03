@@ -2,11 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8">
-      <title>Class BatchedTestResult | Unify 3 SDK </title>
+      <title>Class ChannelPowerMeasurement | Unify 3 SDK </title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="title" content="Class BatchedTestResult | Unify 3 SDK ">
+      <meta name="title" content="Class ChannelPowerMeasurement | Unify 3 SDK ">
       
-      <meta name="description" content="A batched test result.">
+      <meta name="description" content="A channel power measurement.">
       <link rel="icon" href="../Assets/icon_round.svg">
       <link rel="stylesheet" href="../public/docfx.min.css">
       <link rel="stylesheet" href="../public/main.css">
@@ -80,12 +80,12 @@
           <nav id="breadcrumb"></nav>
         </div>
 
-        <article data-uid="Kaelus.Unify3Sdk.BatchedTestResult">
+        <article data-uid="Kaelus.Unify3Sdk.ChannelPowerMeasurement">
 
 
 
-  <h1 id="Kaelus_Unify3Sdk_BatchedTestResult" data-uid="Kaelus.Unify3Sdk.BatchedTestResult" class="text-break">
-Class BatchedTestResult  
+  <h1 id="Kaelus_Unify3Sdk_ChannelPowerMeasurement" data-uid="Kaelus.Unify3Sdk.ChannelPowerMeasurement" class="text-break">
+Class ChannelPowerMeasurement  
   </h1>
 
   <div class="facts text-secondary">
@@ -93,12 +93,12 @@ Class BatchedTestResult
   <dl><dt>Assembly</dt><dd>Kaelus.Unify3Sdk.dll</dd></dl>
   </div>
 
-  <div class="markdown summary"><p>A batched test result.</p>
+  <div class="markdown summary"><p>A channel power measurement.</p>
 </div>
   <div class="markdown conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class BatchedTestResult</code></pre>
+    <pre><code class="lang-csharp hljs">public class ChannelPowerMeasurement : Feature</code></pre>
   </div>
 
 
@@ -108,10 +108,20 @@ Class BatchedTestResult
     <dt>Inheritance</dt>
     <dd>
       <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">object</a></div>
-      <div><span class="xref">BatchedTestResult</span></div>
+      <div><span class="xref">ChannelPowerMeasurement</span></div>
     </dd>
   </dl>
 
+  <dl class="attributeList stack implements">
+    <dt>Implements</dt>
+    <dd>
+      <div>
+        <span class="break-text">
+        <a class="xref" href="Kaelus.Unify3Sdk.Feature.html">Feature</a>
+        </span>
+      </div>
+    </dd>
+  </dl>
 
 
   <dl class="attributeList stack inheritedMembers implements">
@@ -148,25 +158,29 @@ Class BatchedTestResult
 
 
 
+  <h2 id="Kaelus_Unify3Sdk_ChannelPowerMeasurement_remarks">Remarks</h2>
+  <div class="markdown level0 remarks"><p>The channel power measurement is a measurement of the total power in a specified frequency range.
+It can be used to measure the power of a CW signal or a modulated signal.</p>
+</div>
 
 
   <h2 class="section" id="properties">Properties
 </h2>
 
 
-  <a id="Kaelus_Unify3Sdk_BatchedTestResult_FeatureResults_" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.FeatureResults*"></a>
+  <a id="Kaelus_Unify3Sdk_ChannelPowerMeasurement_FrequencyRange_Hz_" data-uid="Kaelus.Unify3Sdk.ChannelPowerMeasurement.FrequencyRange_Hz*"></a>
 
-  <h3 id="Kaelus_Unify3Sdk_BatchedTestResult_FeatureResults" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.FeatureResults">
-  FeatureResults
+  <h3 id="Kaelus_Unify3Sdk_ChannelPowerMeasurement_FrequencyRange_Hz" data-uid="Kaelus.Unify3Sdk.ChannelPowerMeasurement.FrequencyRange_Hz">
+  FrequencyRange_Hz
   
   </h3>
 
-  <div class="markdown level1 summary"><p>The feature results</p>
+  <div class="markdown level1 summary"><p>The frequency range.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public required IList&lt;FeatureResult&gt; FeatureResults { get; set; }</code></pre>
+    <pre><code class="lang-csharp hljs">public required Extent FrequencyRange_Hz { get; set; }</code></pre>
   </div>
 
 
@@ -175,7 +189,7 @@ Class BatchedTestResult
 
   <h4 class="section">Property Value</h4>
   <dl class="parameters">
-    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1">IList</a>&lt;<a class="xref" href="Kaelus.Unify3Sdk.FeatureResult.html">FeatureResult</a>&gt;</dt>
+    <dt><a class="xref" href="Kaelus.Unify3Sdk.Extent.html">Extent</a></dt>
     <dd></dd>
   </dl>
 
@@ -186,19 +200,19 @@ Class BatchedTestResult
 
 
 
-  <a id="Kaelus_Unify3Sdk_BatchedTestResult_TraceIndex_" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.TraceIndex*"></a>
+  <a id="Kaelus_Unify3Sdk_ChannelPowerMeasurement_Name_" data-uid="Kaelus.Unify3Sdk.ChannelPowerMeasurement.Name*"></a>
 
-  <h3 id="Kaelus_Unify3Sdk_BatchedTestResult_TraceIndex" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.TraceIndex">
-  TraceIndex
+  <h3 id="Kaelus_Unify3Sdk_ChannelPowerMeasurement_Name" data-uid="Kaelus.Unify3Sdk.ChannelPowerMeasurement.Name">
+  Name
   
   </h3>
 
-  <div class="markdown level1 summary"><p>The trace index</p>
+  <div class="markdown level1 summary"><p>The name.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public required int TraceIndex { get; set; }</code></pre>
+    <pre><code class="lang-csharp hljs">public required string Name { get; set; }</code></pre>
   </div>
 
 
@@ -207,7 +221,7 @@ Class BatchedTestResult
 
   <h4 class="section">Property Value</h4>
   <dl class="parameters">
-    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></dt>
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
     <dd></dd>
   </dl>
 
@@ -218,19 +232,19 @@ Class BatchedTestResult
 
 
 
-  <a id="Kaelus_Unify3Sdk_BatchedTestResult_TracePoints_" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.TracePoints*"></a>
+  <a id="Kaelus_Unify3Sdk_ChannelPowerMeasurement_Type_" data-uid="Kaelus.Unify3Sdk.ChannelPowerMeasurement.Type*"></a>
 
-  <h3 id="Kaelus_Unify3Sdk_BatchedTestResult_TracePoints" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.TracePoints">
-  TracePoints
+  <h3 id="Kaelus_Unify3Sdk_ChannelPowerMeasurement_Type" data-uid="Kaelus.Unify3Sdk.ChannelPowerMeasurement.Type">
+  Type
   
   </h3>
 
-  <div class="markdown level1 summary"><p>The trace points</p>
+  <div class="markdown level1 summary"><p>The channel power measurement type.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public required IList&lt;Point&gt; TracePoints { get; set; }</code></pre>
+    <pre><code class="lang-csharp hljs">public required ChannelPowerMeasurementType Type { get; set; }</code></pre>
   </div>
 
 
@@ -239,7 +253,7 @@ Class BatchedTestResult
 
   <h4 class="section">Property Value</h4>
   <dl class="parameters">
-    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1">IList</a>&lt;<a class="xref" href="Kaelus.Unify3Sdk.Point.html">Point</a>&gt;</dt>
+    <dt><a class="xref" href="Kaelus.Unify3Sdk.ChannelPowerMeasurementType.html">ChannelPowerMeasurementType</a></dt>
     <dd></dd>
   </dl>
 
@@ -254,9 +268,9 @@ Class BatchedTestResult
 </h2>
 
 
-  <a id="Kaelus_Unify3Sdk_BatchedTestResult_Equals_" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.Equals*"></a>
+  <a id="Kaelus_Unify3Sdk_ChannelPowerMeasurement_Equals_" data-uid="Kaelus.Unify3Sdk.ChannelPowerMeasurement.Equals*"></a>
 
-  <h3 id="Kaelus_Unify3Sdk_BatchedTestResult_Equals_System_Object_" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.Equals(System.Object)">
+  <h3 id="Kaelus_Unify3Sdk_ChannelPowerMeasurement_Equals_System_Object_" data-uid="Kaelus.Unify3Sdk.ChannelPowerMeasurement.Equals(System.Object)">
   Equals(object?)
   
   </h3>
@@ -292,9 +306,9 @@ Class BatchedTestResult
 
 
 
-  <a id="Kaelus_Unify3Sdk_BatchedTestResult_GetHashCode_" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.GetHashCode*"></a>
+  <a id="Kaelus_Unify3Sdk_ChannelPowerMeasurement_GetHashCode_" data-uid="Kaelus.Unify3Sdk.ChannelPowerMeasurement.GetHashCode*"></a>
 
-  <h3 id="Kaelus_Unify3Sdk_BatchedTestResult_GetHashCode" data-uid="Kaelus.Unify3Sdk.BatchedTestResult.GetHashCode">
+  <h3 id="Kaelus_Unify3Sdk_ChannelPowerMeasurement_GetHashCode" data-uid="Kaelus.Unify3Sdk.ChannelPowerMeasurement.GetHashCode">
   GetHashCode()
   
   </h3>

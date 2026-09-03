@@ -2,11 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8">
-      <title>Interface TraceContext | Unify 3 SDK </title>
+      <title>Enum CableLossTimeRecordFormat | Unify 3 SDK </title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="title" content="Interface TraceContext | Unify 3 SDK ">
+      <meta name="title" content="Enum CableLossTimeRecordFormat | Unify 3 SDK ">
       
-      <meta name="description" content="Provides the current status of a configured trace, including trace-specific conditions">
+      <meta name="description" content="The available cable loss time record format values.">
       <link rel="icon" href="../Assets/icon_round.svg">
       <link rel="stylesheet" href="../public/docfx.min.css">
       <link rel="stylesheet" href="../public/main.css">
@@ -80,12 +80,13 @@
           <nav id="breadcrumb"></nav>
         </div>
 
-        <article data-uid="Kaelus.Unify3Sdk.TraceContext">
+        <article data-uid="Kaelus.Unify3Sdk.CableLossTimeRecordFormat">
 
 
 
-  <h1 id="Kaelus_Unify3Sdk_TraceContext" data-uid="Kaelus.Unify3Sdk.TraceContext" class="text-break">
-Interface TraceContext  
+
+  <h1 id="Kaelus_Unify3Sdk_CableLossTimeRecordFormat" data-uid="Kaelus.Unify3Sdk.CableLossTimeRecordFormat" class="text-break">
+Enum CableLossTimeRecordFormat  
   </h1>
 
   <div class="facts text-secondary">
@@ -93,12 +94,12 @@ Interface TraceContext
   <dl><dt>Assembly</dt><dd>Kaelus.Unify3Sdk.dll</dd></dl>
   </div>
 
-  <div class="markdown summary"><p>Provides the current status of a configured trace, including trace-specific conditions</p>
+  <div class="markdown summary"><p>The available cable loss time record format values.</p>
 </div>
   <div class="markdown conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public interface TraceContext</code></pre>
+    <pre><code class="lang-csharp hljs">public enum CableLossTimeRecordFormat : sbyte</code></pre>
   </div>
 
 
@@ -106,86 +107,33 @@ Interface TraceContext
 
 
 
-  <dl class="attributeList stack implements">
-    <dt>Implemented by</dt>
-    <dd>
-      <div>
-        <span class="break-text">
-        <a class="xref" href="Kaelus.Unify3Sdk.CaaCableLossFrequencyTraceContext.html">CaaCableLossFrequencyTraceContext</a>
-        </span>
-      </div>
-      <div>
-        <span class="break-text">
-        <a class="xref" href="Kaelus.Unify3Sdk.CaaCableLossTimeTraceContext.html">CaaCableLossTimeTraceContext</a>
-        </span>
-      </div>
-      <div>
-        <span class="break-text">
-        <a class="xref" href="Kaelus.Unify3Sdk.CaaReturnLossDistanceTraceContext.html">CaaReturnLossDistanceTraceContext</a>
-        </span>
-      </div>
-      <div>
-        <span class="break-text">
-        <a class="xref" href="Kaelus.Unify3Sdk.CaaReturnLossFrequencyTraceContext.html">CaaReturnLossFrequencyTraceContext</a>
-        </span>
-      </div>
-      <div>
-        <span class="break-text">
-        <a class="xref" href="Kaelus.Unify3Sdk.CaaReturnLossTimeTraceContext.html">CaaReturnLossTimeTraceContext</a>
-        </span>
-      </div>
-      <div>
-        <span class="break-text">
-        <a class="xref" href="Kaelus.Unify3Sdk.CaaSpectrumFrequencyTraceContext.html">CaaSpectrumFrequencyTraceContext</a>
-        </span>
-      </div>
-      <div>
-        <span class="break-text">
-        <a class="xref" href="Kaelus.Unify3Sdk.CaaSpectrumTimeTraceContext.html">CaaSpectrumTimeTraceContext</a>
-        </span>
-      </div>
-      <div>
-        <span class="break-text">
-        <a class="xref" href="Kaelus.Unify3Sdk.IpaNextGenPimFrequencyTraceContext.html">IpaNextGenPimFrequencyTraceContext</a>
-        </span>
-      </div>
-      <div>
-        <span class="break-text">
-        <a class="xref" href="Kaelus.Unify3Sdk.IpaPimDistanceTraceContext.html">IpaPimDistanceTraceContext</a>
-        </span>
-      </div>
-      <div>
-        <span class="break-text">
-        <a class="xref" href="Kaelus.Unify3Sdk.IpaPimFrequencyTraceContext.html">IpaPimFrequencyTraceContext</a>
-        </span>
-      </div>
-      <div>
-        <span class="break-text">
-        <a class="xref" href="Kaelus.Unify3Sdk.IpaPimIdleTraceContext.html">IpaPimIdleTraceContext</a>
-        </span>
-      </div>
-      <div>
-        <span class="break-text">
-        <a class="xref" href="Kaelus.Unify3Sdk.IpaPimTimeTraceContext.html">IpaPimTimeTraceContext</a>
-        </span>
-      </div>
-      <div>
-        <span class="break-text">
-        <a class="xref" href="Kaelus.Unify3Sdk.IpaReturnLossDistanceTraceContext.html">IpaReturnLossDistanceTraceContext</a>
-        </span>
-      </div>
-      <div>
-        <span class="break-text">
-        <a class="xref" href="Kaelus.Unify3Sdk.IpaSpectrumFrequencyTraceContext.html">IpaSpectrumFrequencyTraceContext</a>
-        </span>
-      </div>
-    </dd>
+
+
+
+  <h2 id="fields">Fields
+</h2>
+  <dl class="parameters">
+    <dt id="Kaelus_Unify3Sdk_CableLossTimeRecordFormat_Complex"><code>Complex = 0</code></dt>
+  
+  <dd><p>Returns the trace as complex values.</p>
+</dd>
+    <dt id="Kaelus_Unify3Sdk_CableLossTimeRecordFormat_MagnitudeDb"><code>MagnitudeDb = 2</code></dt>
+  
+  <dd><p>Returns the trace magnitude in dB.</p>
+</dd>
+    <dt id="Kaelus_Unify3Sdk_CableLossTimeRecordFormat_MagnitudeLinear"><code>MagnitudeLinear = 1</code></dt>
+  
+  <dd><p>Returns the trace magnitude on a linear scale.</p>
+</dd>
+    <dt id="Kaelus_Unify3Sdk_CableLossTimeRecordFormat_Phase"><code>Phase = 3</code></dt>
+  
+  <dd><p>Returns the trace phase.</p>
+</dd>
+    <dt id="Kaelus_Unify3Sdk_CableLossTimeRecordFormat_Vswr"><code>Vswr = 4</code></dt>
+  
+  <dd><p>Returns the trace as VSWR.</p>
+</dd>
   </dl>
-
-
-
-
-
 
 
 

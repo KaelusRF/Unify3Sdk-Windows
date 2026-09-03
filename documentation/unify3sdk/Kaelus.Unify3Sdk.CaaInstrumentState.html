@@ -2,11 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8">
-      <title>Class ReportConfiguration | Unify 3 SDK </title>
+      <title>Class CaaInstrumentState | Unify 3 SDK </title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="title" content="Class ReportConfiguration | Unify 3 SDK ">
+      <meta name="title" content="Class CaaInstrumentState | Unify 3 SDK ">
       
-      <meta name="description" content="A report configuration.">
+      <meta name="description" content="A CAA instrument state.">
       <link rel="icon" href="../Assets/icon_round.svg">
       <link rel="stylesheet" href="../public/docfx.min.css">
       <link rel="stylesheet" href="../public/main.css">
@@ -80,12 +80,12 @@
           <nav id="breadcrumb"></nav>
         </div>
 
-        <article data-uid="Kaelus.Unify3Sdk.ReportConfiguration">
+        <article data-uid="Kaelus.Unify3Sdk.CaaInstrumentState">
 
 
 
-  <h1 id="Kaelus_Unify3Sdk_ReportConfiguration" data-uid="Kaelus.Unify3Sdk.ReportConfiguration" class="text-break">
-Class ReportConfiguration  
+  <h1 id="Kaelus_Unify3Sdk_CaaInstrumentState" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState" class="text-break">
+Class CaaInstrumentState  
   </h1>
 
   <div class="facts text-secondary">
@@ -93,12 +93,12 @@ Class ReportConfiguration
   <dl><dt>Assembly</dt><dd>Kaelus.Unify3Sdk.dll</dd></dl>
   </div>
 
-  <div class="markdown summary"><p>A report configuration.</p>
+  <div class="markdown summary"><p>A CAA instrument state.</p>
 </div>
   <div class="markdown conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class ReportConfiguration</code></pre>
+    <pre><code class="lang-csharp hljs">public class CaaInstrumentState : InstrumentState</code></pre>
   </div>
 
 
@@ -108,10 +108,20 @@ Class ReportConfiguration
     <dt>Inheritance</dt>
     <dd>
       <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">object</a></div>
-      <div><span class="xref">ReportConfiguration</span></div>
+      <div><span class="xref">CaaInstrumentState</span></div>
     </dd>
   </dl>
 
+  <dl class="attributeList stack implements">
+    <dt>Implements</dt>
+    <dd>
+      <div>
+        <span class="break-text">
+        <a class="xref" href="Kaelus.Unify3Sdk.InstrumentState.html">InstrumentState</a>
+        </span>
+      </div>
+    </dd>
+  </dl>
 
 
   <dl class="attributeList stack inheritedMembers implements">
@@ -154,19 +164,115 @@ Class ReportConfiguration
 </h2>
 
 
-  <a id="Kaelus_Unify3Sdk_ReportConfiguration_Comment_" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.Comment*"></a>
+  <a id="Kaelus_Unify3Sdk_CaaInstrumentState_BatteryState_" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.BatteryState*"></a>
 
-  <h3 id="Kaelus_Unify3Sdk_ReportConfiguration_Comment" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.Comment">
-  Comment
+  <h3 id="Kaelus_Unify3Sdk_CaaInstrumentState_BatteryState" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.BatteryState">
+  BatteryState
   
   </h3>
 
-  <div class="markdown level1 summary"><p>The comment.</p>
+  <div class="markdown level1 summary"><p>The battery state.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public required string Comment { get; set; }</code></pre>
+    <pre><code class="lang-csharp hljs">public required BatteryState BatteryState { get; set; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="Kaelus.Unify3Sdk.BatteryState.html">BatteryState</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="Kaelus_Unify3Sdk_CaaInstrumentState_ConnectionState_" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.ConnectionState*"></a>
+
+  <h3 id="Kaelus_Unify3Sdk_CaaInstrumentState_ConnectionState" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.ConnectionState">
+  ConnectionState
+  
+  </h3>
+
+  <div class="markdown level1 summary"><p>The connection state.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public required ConnectionState ConnectionState { get; set; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="Kaelus.Unify3Sdk.ConnectionState.html">ConnectionState</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="Kaelus_Unify3Sdk_CaaInstrumentState_LastCalibration_" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.LastCalibration*"></a>
+
+  <h3 id="Kaelus_Unify3Sdk_CaaInstrumentState_LastCalibration" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.LastCalibration">
+  LastCalibration
+  
+  </h3>
+
+  <div class="markdown level1 summary"><p>The time of the last instrument calibration.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public DateTime? LastCalibration { get; set; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.datetime">DateTime</a>?</dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="Kaelus_Unify3Sdk_CaaInstrumentState_Model_" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.Model*"></a>
+
+  <h3 id="Kaelus_Unify3Sdk_CaaInstrumentState_Model" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.Model">
+  Model
+  
+  </h3>
+
+  <div class="markdown level1 summary"><p>The model.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public required string Model { get; set; }</code></pre>
   </div>
 
 
@@ -186,19 +292,51 @@ Class ReportConfiguration
 
 
 
-  <a id="Kaelus_Unify3Sdk_ReportConfiguration_ContactDetails_" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.ContactDetails*"></a>
+  <a id="Kaelus_Unify3Sdk_CaaInstrumentState_NextCalibration_" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.NextCalibration*"></a>
 
-  <h3 id="Kaelus_Unify3Sdk_ReportConfiguration_ContactDetails" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.ContactDetails">
-  ContactDetails
+  <h3 id="Kaelus_Unify3Sdk_CaaInstrumentState_NextCalibration" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.NextCalibration">
+  NextCalibration
   
   </h3>
 
-  <div class="markdown level1 summary"><p>The contact details.</p>
+  <div class="markdown level1 summary"><p>The time that the next instrument calibration is due.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public required string ContactDetails { get; set; }</code></pre>
+    <pre><code class="lang-csharp hljs">public DateTime? NextCalibration { get; set; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.datetime">DateTime</a>?</dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="Kaelus_Unify3Sdk_CaaInstrumentState_SerialNumber_" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.SerialNumber*"></a>
+
+  <h3 id="Kaelus_Unify3Sdk_CaaInstrumentState_SerialNumber" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.SerialNumber">
+  SerialNumber
+  
+  </h3>
+
+  <div class="markdown level1 summary"><p>The serial number.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public required string SerialNumber { get; set; }</code></pre>
   </div>
 
 
@@ -218,19 +356,19 @@ Class ReportConfiguration
 
 
 
-  <a id="Kaelus_Unify3Sdk_ReportConfiguration_ContactName_" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.ContactName*"></a>
+  <a id="Kaelus_Unify3Sdk_CaaInstrumentState_SoftwareVersions_" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.SoftwareVersions*"></a>
 
-  <h3 id="Kaelus_Unify3Sdk_ReportConfiguration_ContactName" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.ContactName">
-  ContactName
+  <h3 id="Kaelus_Unify3Sdk_CaaInstrumentState_SoftwareVersions" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.SoftwareVersions">
+  SoftwareVersions
   
   </h3>
 
-  <div class="markdown level1 summary"><p>The contact name.</p>
+  <div class="markdown level1 summary"><p>The software versions.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public required string ContactName { get; set; }</code></pre>
+    <pre><code class="lang-csharp hljs">public required IList&lt;string&gt; SoftwareVersions { get; set; }</code></pre>
   </div>
 
 
@@ -239,103 +377,7 @@ Class ReportConfiguration
 
   <h4 class="section">Property Value</h4>
   <dl class="parameters">
-    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
-    <dd></dd>
-  </dl>
-
-
-
-
-
-
-
-
-  <a id="Kaelus_Unify3Sdk_ReportConfiguration_OperatorName_" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.OperatorName*"></a>
-
-  <h3 id="Kaelus_Unify3Sdk_ReportConfiguration_OperatorName" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.OperatorName">
-  OperatorName
-  
-  </h3>
-
-  <div class="markdown level1 summary"><p>The operator name.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public required string OperatorName { get; set; }</code></pre>
-  </div>
-
-
-
-
-
-  <h4 class="section">Property Value</h4>
-  <dl class="parameters">
-    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
-    <dd></dd>
-  </dl>
-
-
-
-
-
-
-
-
-  <a id="Kaelus_Unify3Sdk_ReportConfiguration_SiteDescription_" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.SiteDescription*"></a>
-
-  <h3 id="Kaelus_Unify3Sdk_ReportConfiguration_SiteDescription" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.SiteDescription">
-  SiteDescription
-  
-  </h3>
-
-  <div class="markdown level1 summary"><p>The site description.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public required string SiteDescription { get; set; }</code></pre>
-  </div>
-
-
-
-
-
-  <h4 class="section">Property Value</h4>
-  <dl class="parameters">
-    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
-    <dd></dd>
-  </dl>
-
-
-
-
-
-
-
-
-  <a id="Kaelus_Unify3Sdk_ReportConfiguration_SiteName_" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.SiteName*"></a>
-
-  <h3 id="Kaelus_Unify3Sdk_ReportConfiguration_SiteName" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.SiteName">
-  SiteName
-  
-  </h3>
-
-  <div class="markdown level1 summary"><p>The site name.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public required string SiteName { get; set; }</code></pre>
-  </div>
-
-
-
-
-
-  <h4 class="section">Property Value</h4>
-  <dl class="parameters">
-    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1">IList</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a>&gt;</dt>
     <dd></dd>
   </dl>
 
@@ -350,9 +392,9 @@ Class ReportConfiguration
 </h2>
 
 
-  <a id="Kaelus_Unify3Sdk_ReportConfiguration_Equals_" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.Equals*"></a>
+  <a id="Kaelus_Unify3Sdk_CaaInstrumentState_Equals_" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.Equals*"></a>
 
-  <h3 id="Kaelus_Unify3Sdk_ReportConfiguration_Equals_System_Object_" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.Equals(System.Object)">
+  <h3 id="Kaelus_Unify3Sdk_CaaInstrumentState_Equals_System_Object_" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.Equals(System.Object)">
   Equals(object?)
   
   </h3>
@@ -388,9 +430,9 @@ Class ReportConfiguration
 
 
 
-  <a id="Kaelus_Unify3Sdk_ReportConfiguration_GetHashCode_" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.GetHashCode*"></a>
+  <a id="Kaelus_Unify3Sdk_CaaInstrumentState_GetHashCode_" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.GetHashCode*"></a>
 
-  <h3 id="Kaelus_Unify3Sdk_ReportConfiguration_GetHashCode" data-uid="Kaelus.Unify3Sdk.ReportConfiguration.GetHashCode">
+  <h3 id="Kaelus_Unify3Sdk_CaaInstrumentState_GetHashCode" data-uid="Kaelus.Unify3Sdk.CaaInstrumentState.GetHashCode">
   GetHashCode()
   
   </h3>

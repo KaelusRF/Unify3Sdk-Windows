@@ -256,6 +256,20 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.CaaInstrumentState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.CaaInstrumentState.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.CaaInstrumentState",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.CaaInstrumentState.yml\" sourcestartlinenumber=\"1\">A CAA instrument state.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "build/Kaelus.Unify3Sdk.CaaPreampMode.yml",
       "output": {
         ".html": {
@@ -732,6 +746,62 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.CableLossFrequencyRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.CableLossFrequencyRecord.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.CableLossFrequencyRecord",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.CableLossFrequencyRecord.yml\" sourcestartlinenumber=\"1\">A cable loss frequency record.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.CableLossFrequencyRecordFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.CableLossFrequencyRecordFormat.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.CableLossFrequencyRecordFormat",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.CableLossFrequencyRecordFormat.yml\" sourcestartlinenumber=\"1\">The available cable loss frequency record format values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.CableLossTimeRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.CableLossTimeRecord.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.CableLossTimeRecord",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.CableLossTimeRecord.yml\" sourcestartlinenumber=\"1\">A cable loss time record.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.CableLossTimeRecordFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.CableLossTimeRecordFormat.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.CableLossTimeRecordFormat",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.CableLossTimeRecordFormat.yml\" sourcestartlinenumber=\"1\">The available cable loss time record format values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "build/Kaelus.Unify3Sdk.Calibration.yml",
       "output": {
         ".html": {
@@ -812,7 +882,49 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "Kaelus.Unify3Sdk.Cardinality",
-      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.Cardinality.yml\" sourcestartlinenumber=\"1\">The available cardinalities.</p>\n"
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.Cardinality.yml\" sourcestartlinenumber=\"1\">Defines how often a trace is executed during a test.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.ChannelPowerMeasurement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.ChannelPowerMeasurement.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.ChannelPowerMeasurement",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.ChannelPowerMeasurement.yml\" sourcestartlinenumber=\"1\">A channel power measurement.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.ChannelPowerMeasurementResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.ChannelPowerMeasurementResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.ChannelPowerMeasurementResult",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.ChannelPowerMeasurementResult.yml\" sourcestartlinenumber=\"1\">A channel power measurement result.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.ChannelPowerMeasurementType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.ChannelPowerMeasurementType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.ChannelPowerMeasurementType",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.ChannelPowerMeasurementType.yml\" sourcestartlinenumber=\"1\">The type of channel power measurement.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -886,6 +998,34 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.Feature.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.Feature.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.Feature",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.Feature.yml\" sourcestartlinenumber=\"1\">An additional measurement associated with a trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.FeatureResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.FeatureResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.FeatureResult",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.FeatureResult.yml\" sourcestartlinenumber=\"1\">The result of an additional measurement associated with a trace.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "build/Kaelus.Unify3Sdk.FixedMarker.yml",
       "output": {
         ".html": {
@@ -956,6 +1096,20 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.ImageRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.ImageRecord.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.ImageRecord",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.ImageRecord.yml\" sourcestartlinenumber=\"1\">An image record.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "build/Kaelus.Unify3Sdk.Instrument.yml",
       "output": {
         ".html": {
@@ -1012,6 +1166,34 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.InstrumentRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.InstrumentRecord.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.InstrumentRecord",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.InstrumentRecord.yml\" sourcestartlinenumber=\"1\">The instrument details recorded in the report.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.InstrumentState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.InstrumentState.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.InstrumentState",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.InstrumentState.yml\" sourcestartlinenumber=\"1\">An instrument state.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "build/Kaelus.Unify3Sdk.InstrumentType.yml",
       "output": {
         ".html": {
@@ -1036,7 +1218,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "Kaelus.Unify3Sdk.IpaBand",
-      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.IpaBand.yml\" sourcestartlinenumber=\"1\">A definition of an iPA band.</p>\n"
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.IpaBand.yml\" sourcestartlinenumber=\"1\">A definition of an IPA band.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -1051,6 +1233,34 @@
       "IsMRef": true,
       "Title": "Kaelus.Unify3Sdk.IpaInstrumentDefinition",
       "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.IpaInstrumentDefinition.yml\" sourcestartlinenumber=\"1\">An IPA instrument definition.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.IpaInstrumentState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.IpaInstrumentState.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.IpaInstrumentState",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.IpaInstrumentState.yml\" sourcestartlinenumber=\"1\">An IPA instrument state.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.IpaNextGenInstrumentState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.IpaNextGenInstrumentState.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.IpaNextGenInstrumentState",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.IpaNextGenInstrumentState.yml\" sourcestartlinenumber=\"1\">An IPA Next Gen instrument state.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -2058,7 +2268,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "Kaelus.Unify3Sdk.Ordering",
-      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.Ordering.yml\" sourcestartlinenumber=\"1\">The available ordering values.</p>\n"
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.Ordering.yml\" sourcestartlinenumber=\"1\">Defines whether traces are executed one after another or at the same time.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -2328,6 +2538,48 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.PimDistanceRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.PimDistanceRecord.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.PimDistanceRecord",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.PimDistanceRecord.yml\" sourcestartlinenumber=\"1\">A PIM distance record.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.PimFrequencyRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.PimFrequencyRecord.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.PimFrequencyRecord",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.PimFrequencyRecord.yml\" sourcestartlinenumber=\"1\">A PIM frequency record.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.PimTimeRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.PimTimeRecord.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.PimTimeRecord",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.PimTimeRecord.yml\" sourcestartlinenumber=\"1\">A PIM time record.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "build/Kaelus.Unify3Sdk.PimUnit.yml",
       "output": {
         ".html": {
@@ -2440,17 +2692,115 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "build/Kaelus.Unify3Sdk.ReportConfiguration.yml",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.Record.yml",
       "output": {
         ".html": {
-          "relative_path": "build/Kaelus.Unify3Sdk.ReportConfiguration.html"
+          "relative_path": "build/Kaelus.Unify3Sdk.Record.html"
         }
       },
       "version": "",
       "Uid": null,
       "IsMRef": true,
-      "Title": "Kaelus.Unify3Sdk.ReportConfiguration",
-      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.ReportConfiguration.yml\" sourcestartlinenumber=\"1\">A report configuration.</p>\n"
+      "Title": "Kaelus.Unify3Sdk.Record",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.Record.yml\" sourcestartlinenumber=\"1\">A report record.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.ReportDetails.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.ReportDetails.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.ReportDetails",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.ReportDetails.yml\" sourcestartlinenumber=\"1\">The report details.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.ReturnLossDistanceRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.ReturnLossDistanceRecord.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.ReturnLossDistanceRecord",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.ReturnLossDistanceRecord.yml\" sourcestartlinenumber=\"1\">A return loss distance record.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.ReturnLossDistanceRecordFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.ReturnLossDistanceRecordFormat.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.ReturnLossDistanceRecordFormat",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.ReturnLossDistanceRecordFormat.yml\" sourcestartlinenumber=\"1\">The available return loss distance record format values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.ReturnLossFrequencyRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.ReturnLossFrequencyRecord.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.ReturnLossFrequencyRecord",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.ReturnLossFrequencyRecord.yml\" sourcestartlinenumber=\"1\">A return loss frequency record.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.ReturnLossFrequencyRecordFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.ReturnLossFrequencyRecordFormat.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.ReturnLossFrequencyRecordFormat",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.ReturnLossFrequencyRecordFormat.yml\" sourcestartlinenumber=\"1\">The available return loss frequency record format values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.ReturnLossTimeRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.ReturnLossTimeRecord.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.ReturnLossTimeRecord",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.ReturnLossTimeRecord.yml\" sourcestartlinenumber=\"1\">A return loss time record.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.ReturnLossTimeRecordFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.ReturnLossTimeRecordFormat.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.ReturnLossTimeRecordFormat",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.ReturnLossTimeRecordFormat.yml\" sourcestartlinenumber=\"1\">The available return loss time record format values.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -2619,6 +2969,34 @@
       "IsMRef": true,
       "Title": "Kaelus.Unify3Sdk.RtfZeroingCalibrationValidationErrorType",
       "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.RtfZeroingCalibrationValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the RTF zeroing calibration.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.SpectrumFrequencyRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.SpectrumFrequencyRecord.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.SpectrumFrequencyRecord",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.SpectrumFrequencyRecord.yml\" sourcestartlinenumber=\"1\">A spectrum frequency record.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.SpectrumTimeRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.SpectrumTimeRecord.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.SpectrumTimeRecord",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.SpectrumTimeRecord.yml\" sourcestartlinenumber=\"1\">A spectrum time record.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -2842,7 +3220,35 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "Kaelus.Unify3Sdk.TraceContext",
-      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.TraceContext.yml\" sourcestartlinenumber=\"1\">The context for the trace.</p>\n"
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.TraceContext.yml\" sourcestartlinenumber=\"1\">Provides the current status of a configured trace, including trace-specific conditions</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.TransmissionLossFrequencyRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.TransmissionLossFrequencyRecord.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.TransmissionLossFrequencyRecord",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.TransmissionLossFrequencyRecord.yml\" sourcestartlinenumber=\"1\">A transmission loss frequency record.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.TransmissionLossTimeRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.TransmissionLossTimeRecord.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.TransmissionLossTimeRecord",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.TransmissionLossTimeRecord.yml\" sourcestartlinenumber=\"1\">A transmission loss time record.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -2997,6 +3403,20 @@
       "IsMRef": true,
       "Title": "Kaelus.Unify3Sdk.ValueMarkerValidationErrorType",
       "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.ValueMarkerValidationErrorType.yml\" sourcestartlinenumber=\"1\">The validation error types for the value marker.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "build/Kaelus.Unify3Sdk.Viewport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "build/Kaelus.Unify3Sdk.Viewport.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Kaelus.Unify3Sdk.Viewport",
+      "Summary": "<p sourcefile=\"build/Kaelus.Unify3Sdk.Viewport.yml\" sourcestartlinenumber=\"1\">The visible area of a trace.</p>\n"
     },
     {
       "type": "ManagedReference",
